@@ -1,0 +1,50 @@
+CST for file: programming_assignment_4-test_file_1.c
+Program () [Line: -1]
+    Function (sum_of_first_n_squares) [Line: 5]
+        ReturnType (int) [Line: 5]
+        "("
+        ParameterType (int) [Line: 5]
+            Parameter (n) [Line: 5]
+        ")"
+        "{"
+        Declaration (int) [Line: 7]
+            Variable (sum) [Line: 7]
+        Assignment (sum) [Line: 9]
+            Operand (0) [Line: 9]
+        IfStatement (if) [Line: 10]
+            Operator (>=) [Line: 10]
+                Operand (n) [Line: 10]
+                Operand (1) [Line: 10]
+            Assignment (sum) [Line: 12]
+                Operator (*) [Line: 12]
+                    Operand (n) [Line: 12]
+                    Operator (*) [Line: 12]
+                        Operator (+) [Line: 12]
+                            Operand (n) [Line: 12]
+                            Operand (1) [Line: 12]
+                        Operator (/) [Line: 12]
+                            Operator (*) [Line: 12]
+                                Operand (2) [Line: 12]
+                                Operator (+) [Line: 12]
+                                    Operand (n) [Line: 12]
+                                    Operand (1) [Line: 12]
+                            Operand (6) [Line: 12]
+        Return (return) [Line: 14]
+            Operand (sum) [Line: 14]
+        "}"
+    Procedure (main) [Line: 17]
+        "("
+        ParameterType (void) [Line: 17]
+        ")"
+        "{"
+        Declaration (int) [Line: 19]
+            Variable (n) [Line: 19]
+        Declaration (int) [Line: 20]
+            Variable (sum) [Line: 20]
+        Assignment (n) [Line: 22]
+            Operand (100) [Line: 22]
+        Assignment (sum) [Line: 23]
+            FunctionCall (sum_of_first_n_squares) [Line: 23]
+                Operand (n) [Line: 23]
+        FunctionCall (printf) [Line: 24]
+        "}"

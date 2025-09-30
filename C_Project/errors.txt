@@ -1,0 +1,24 @@
+Line 18: variable "string_size" is already defined locally
+Line 18: Invalid statement.
+Line 18: variable "string_size" is already defined locally
+Line 18: Invalid statement.
+Line 18: variable "found_something" is already defined locally
+Line 18: Invalid statement.
+Line 18: variable "found_something" is already defined locally
+Line 18: Invalid statement.
+Line 11: variable "announcement" is already defined globally
+Line 11: Invalid statement.
+Line 11: variable "announcement" is already defined globally
+Line 11: Invalid statement.
+Line 11: variable "announcement" is already defined globally
+Line 11: Invalid statement.
+Line 11: variable "announcement" is already defined globally
+Line 11: Invalid statement.
+Line 18: variable "found_something" is already defined locally
+Line 18: Invalid statement.
+Line 18: variable "found_something" is already defined locally
+Line 18: Invalid statement.
+Line 18: variable "string_size" is already defined locally
+Line 18: Invalid statement.
+Line 18: variable "string_size" is already defined locally
+Line 18: Invalid statement.
