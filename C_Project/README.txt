@@ -1,10 +1,9 @@
 This is the directory for my modular Interpreter Project: I will be attempting to containerize every part of 
-my interpreter to make integration towards the end of the semester as easy as possible. 
+my interpreter to make integration as simple as possible.
 
 I have organized this project in a standardized format. I have a main.cpp file to organize function processes, 
 as well as handle file organization and structure.
 
-CURRENT STAGE: Assignement 4
 
 Comment Removal is complete.
 
@@ -21,8 +20,6 @@ CST output is now also written to a file in the outputfiles directory.
 
 Symbol table integration is also complete. Each function, procedure, parameter, and variable is entered into a 
 scoped symbol table.
-
-Asssignment 4 output files are printed as "outputfiles/cst_programming_assignment_3-test_file_X.c"
 
 Directory Structure
 -------------------------------------------------------------------------------------------------------------
@@ -50,3 +47,4 @@ ModularInterpreter/
 ├── errors.txt                   # Log of errors encountered during tokenization/parsing
 ├── makefile                     # Build automation script
 └── README.md                    # Project description (this file)
+
